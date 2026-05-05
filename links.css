@@ -1,0 +1,50 @@
+/* links.css - eternal style */
+
+body {
+  font-family: Arial, sans-serif;
+  background: #ffffff;
+  color: #111;
+}
+
+/* links list container */
+.links {
+  padding: 20px;
+}
+
+/* link boxes */
+.link-item {
+  padding: 10px;
+  border: 1px solid #e5e7eb;
+  border-radius: 6px;
+  margin-bottom: 10px;
+  background: #fff;
+}
+
+/* link title */
+.link-item a {
+  color: #111;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+/* hover */
+.link-item a:hover {
+  text-decoration: underline;
+}
+
+/* small text */
+.small {
+  font-size: 12px;
+  color: #6b7280;
+}
+
+/* header feel */
+h1, h2, h3 {
+  font-weight: 600;
+}
+
+/* optional subtle section */
+.section {
+  margin-top: 20px;
+  padding: 10px;
+}
